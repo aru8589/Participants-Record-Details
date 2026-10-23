@@ -1,5 +1,5 @@
-# ParticipantsRecordDetals_ICCSE-2026
-## Execute the command "python pdb_cnfrnc.py"
+# ParticipantsRecordDetails_ICCSE-2026
+## Execute command "python pdb_cnfrnc.py"
 
 
                 
